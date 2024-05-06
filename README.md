@@ -1,11 +1,11 @@
 
 # Sales Performance-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYWNhM2RiNmYtOGVkOC00OTQ1LThjZTItYzMyMTFlNWQzNjJiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzUzYzA2N2QtMmM2Ni00NjA1LWFiMjItZjFlYjcwZjY2MjVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Insights and Objectives
 
-This dashboard helps businesses understand their sales performance better. It helps the business know if they are making sales or losing sales, if they are making profit or not. Through different periods, they get to know where they had highest sales, profit and quantity sold, & thus they can improve their business by identifying these area. It also lets them know the sales difference delay & percentage change, thus since by using this dashboard they have identified this areas, they can further work on factors that facilitate sales growth.
+This dashboard helps businesses understand their sales performance better. It helps the business know if they are making sales or losing sales, if they are making profit or not. Through different periods, they get to know where they had highest sales, profit and quantity sold, & thus they can improve their business by identifying these area. It also lets them know the sales difference & percentage change, thus since by using this dashboard they have identified this areas, they can further work on factors that facilitate sales growth.
 
 Since, there is growth in sales and profit in all of the year, thus in all they must keep working on improving their business. 
 
