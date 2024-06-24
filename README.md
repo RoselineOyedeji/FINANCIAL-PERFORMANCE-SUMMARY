@@ -9,8 +9,6 @@ This dashboard helps businesses understand their sales performance better. It he
 
 Since, there is growth in sales and profit in all of the year, thus in all they must keep working on improving their business. 
 
-`Also since they sold out more of furnishings to consumers, corporate offices, and to home offices, thus they must try to stock it more to meet customers demand and avoid stockouts.`
-
 
 ### Steps followed 
 
