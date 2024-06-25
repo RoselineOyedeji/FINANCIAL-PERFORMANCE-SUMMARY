@@ -1,7 +1,7 @@
 
 # FINANCIAL PERFORMANCE SUMMARY
 
-## Insights and Objectives
+## Objectives
 
 This dashboard helps businesses understand their business performance better. It helps the business know if they are making sales or losing sales, if they are making profit or not. Through different periods, they get to know where they had highest sales, profit and quantity sold, & thus they can improve their business by identifying these area. It also lets them know the sales difference & percentage change.
 
