@@ -71,10 +71,7 @@ All that was on the sales page was moved to the profit and quantity sold page, o
 
 `Snap of the dashboard`
 
-![Sales performance](https://github.com/RoselineOyedeji/SALES-PERFORMANCE-DASHBOARD/assets/161141258/83c75900-9fac-4beb-ae22-eeaca669a218)
-
-
-# Insights
+![First power bi project](https://github.com/RoselineOyedeji/SALES-PERFORMANCE-DASHBOARD/assets/161141258/b9c30ae3-a70b-4396-88c1-823b521f5ee6)
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
